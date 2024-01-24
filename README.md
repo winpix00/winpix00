@@ -2,7 +2,7 @@
 - 👀 I’m interested in GIS and Dendrochronology
 - 🌱 I’m currently learning Advanced Statistics in Rstudio
 - 💞️ I’m looking to collaborate on Utilities and Transportation
-- 📫 How to reach me: warraub@gmai.com
+- 📫 How to reach me: warraub@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Gingko tees are no longer found in the wild. Humans completely cultivate them.
 
