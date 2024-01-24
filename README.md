@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Utilities and Transportation
 - 📫 How to reach me: warraub@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Gingko tees are no longer found in the wild. Humans completely cultivate them.
+- ⚡ Fun fact: Gingko trees are no longer found in the wild. Humans completely cultivate them.
 
 <!---
 winpix00/winpix00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
