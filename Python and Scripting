@@ -1,0 +1,20 @@
+import arcpy
+
+def aggregate_raster(raster_path, cell_factor, aggregation_type):
+    # Add any additional parameters or processing specific to raster aggregation
+    arcpy.management.Aggregate(raster_path, cell_factor, aggregation_type)
+    print("Raster aggregation complete.")
+
+def buffer_vector(input_path, output_path, buffer_distance):
+    # Add any additional parameters or processing specific to vector buffering
+    arcpy.analysis.Buffer(input_path, output_path, buffer_distance)
+    print("Vector buffer complete.")
+
+def batch_buffer_vector(input_list, output_folder, buffer_distance):
+    # Add any additional parameters or processing specific to batch vector buffering
+    for input_file in input_list:
+        output_name = arcpy.Describe(input_file).baseName + "_buffer.shp"
+        output_path = arcpy.os.path.join(output_folder, output_name)
+        buffer_vector(input_file, output_path, buffer_distance)
+    print("Batch vector buffering complete.")
+# Module for Python Finale 
